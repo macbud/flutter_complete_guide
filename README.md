@@ -6,5 +6,7 @@ file edited in github 😂
 ✅ VSC integration  
 ✅ Build from scratch core app, running the app on a emulator  
 ✅ =>  
-✅ @override  
+✅ @override 
+✅ scaffold 
+✅ column, row, elevated buttons   
 ⬜️ 
