@@ -5,4 +5,6 @@ file edited in github 😂
 # done
 ✅ VSC integration  
 ✅ Build from scratch core app, running the app on a emulator  
+✅ =>  
+✅ @override  
 ⬜️ 
