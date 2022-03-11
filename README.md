@@ -2,7 +2,7 @@
 ✨  
 # tutorial 🤣
 file edited in github 😂  
-www
 # done
 ✅ VSC integration  
-⬜️ tbd
+✅ Build from scratch core app, running the app on a emulator  
+⬜️ 
