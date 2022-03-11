@@ -4,3 +4,4 @@
 file edited in github 😂  
 www
 # done
+- [x] VSC integration
