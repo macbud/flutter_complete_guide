@@ -12,3 +12,5 @@ file edited in github 😂
 ✅ Anonymous Function (  () => (one line) or (){} ) ⬜️   
 ✅ array.elementAt(index), array[index]  
 ✅ question index  
+✅ StatelessWidget into StatefulWidget (CTRL + SHIFT + R - refactor), setState to rebuild 
+✅ Public: class MyApp into Private: class _MyApp  (private properties and methods also)  
