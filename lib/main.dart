@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
           ElevatedButton(child: Text('Answer 1'), onPressed: null),
           ElevatedButton(child: Text('Answer 2'), onPressed: null),
           ElevatedButton(child: Text('Answer 3'), onPressed: null),
-          ElevatedButton(onPressed: null, child: Text('Answer 4')),
         ]),
       ),
     );
