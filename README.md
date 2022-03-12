@@ -8,5 +8,7 @@ file edited in github 😂
 ✅ =>  
 ✅ @override 
 ✅ scaffold 
-✅ column, row, elevated buttons   
-⬜️ 
+✅ column, row, elevated buttons, OnPressed, 
+✅ Anonymous Function (  () => (one line) or (){} ) ⬜️   
+✅ array.elementAt(index), array[index]  
+✅ question index  
