@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var questions = [
-      'What\'s your fav color?',
-      'What\'s your fav animal?',
+      'What\'s your fav color??',
+      'What\'s your fav animal??',
     ];
     return MaterialApp(
       home: Scaffold(
