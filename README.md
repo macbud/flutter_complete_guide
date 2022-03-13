@@ -15,4 +15,7 @@ file edited in github 😂
 ✅ StatelessWidget into StatefulWidget (CTRL + SHIFT + R - refactor), setState to rebuild  
 ✅ Public: class MyApp into Private: class _MyApp  (private properties and methods also)(at L37)  
 ✅ new file, adding 'final' (38.)  
-✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) 
+✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) - first styling (39.)  
+✅ CTRL+LMC (framework code)  
+✅ styling buttons  
+✅ Answer class  
