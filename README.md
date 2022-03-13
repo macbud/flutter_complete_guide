@@ -13,11 +13,12 @@ file edited in github 😂
 ✅ array.elementAt(index), array[index]  
 ✅ question index (quiz app)  
 ✅ StatelessWidget into StatefulWidget (CTRL + SHIFT + R - refactor), setState to rebuild  
-✅ Public: class MyApp into Private: class _MyApp  (private properties and methods also)(at L37)  
+✅ Public: class MyApp into Private: class _MyApp  (private properties and methods also)(using in same lib/file)(at L37)  
 ✅ new file, adding 'final' (L38)  
 ✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) - first styling (L39)  
 ✅ CTRL+LMC (framework code)  
 ✅ styling buttons  
 ✅ Answer class (L43) 
-✅ mappin  
-✅ mapping a lists to a widgets (L45!) / list in a list -> ... (spread operator)
+✅ mapping  
+✅ mapping a lists to a widgets (L45!) / list in a list -> ... (spread operator)  
+✅ final (can't be changed at runtime, initialy can be assigned, thereafter property/variable can't be changed again), const (... at compile-time), enum  
