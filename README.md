@@ -14,8 +14,10 @@ file edited in github 😂
 ✅ question index (quiz app)  
 ✅ StatelessWidget into StatefulWidget (CTRL + SHIFT + R - refactor), setState to rebuild  
 ✅ Public: class MyApp into Private: class _MyApp  (private properties and methods also)(at L37)  
-✅ new file, adding 'final' (38.)  
-✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) - first styling (39.)  
+✅ new file, adding 'final' (L38)  
+✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) - first styling (L39)  
 ✅ CTRL+LMC (framework code)  
 ✅ styling buttons  
-✅ Answer class  
+✅ Answer class (L43) 
+✅ mappin  
+✅ mapping a lists to a widgets (L45!) / list in a list -> ... (spread operator)
