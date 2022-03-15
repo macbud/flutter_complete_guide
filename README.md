@@ -18,7 +18,10 @@ file edited in github 😂
 ✅ adding cointainer (child, padding, border, margin)(w/ width: double.infinity) - first styling (L39)  
 ✅ CTRL+LMC (framework code)  
 ✅ styling buttons  
-✅ Answer class (L43) 
+✅ Answer class (L43)  
 ✅ mapping  
 ✅ mapping a lists to a widgets (L45!) / list in a list -> ... (spread operator)  
 ✅ final (can't be changed at runtime, initialy can be assigned, thereafter property/variable can't be changed again), const (... at compile-time), enum  
+✅ 'if', 'else if' statement - end of a quiz; boolean && || 
+✅ null value, null safety (int? String? main value type or null)  
+✅ boolean value: statement ? do1 : do2  
