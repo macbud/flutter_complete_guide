@@ -9,7 +9,7 @@ file edited in github 😂
 ✅ @override  
 ✅ scaffold  
 ✅ column, row, elevated buttons, OnPressed,  
-✅ Anonymous Function (  () => (one line) or (){} ) ⬜️  
+✅ Anonymous Function (  () => (one line) or (){} )   
 ✅ array.elementAt(index), array[index]  
 ✅ question index (quiz app)  
 ✅ StatelessWidget into StatefulWidget (CTRL + SHIFT + R - refactor), setState to rebuild  
@@ -24,4 +24,5 @@ file edited in github 😂
 ✅ final (can't be changed at runtime, initialy can be assigned, thereafter property/variable can't be changed again), const (... at compile-time), enum  
 ✅ 'if', 'else if' statement - end of a quiz; boolean && || 
 ✅ null value, null safety (int? String? main value type or null)  
-✅ boolean value: statement ? do1 : do2  
+✅ boolean value: boolean ? do1 : do2  
+✅ splitting widgets (easier to manage) (L51)  
