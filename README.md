@@ -26,3 +26,6 @@ file edited in github 😂
 ✅ null value, null safety (int? String? main value type or null)  
 ✅ boolean value: boolean ? do1 : do2  
 ✅ splitting widgets (easier to manage) (L51)  
+✅ FlatButton, RaisedButton, and OutlineButton have been replaced by [TextButton], [ElevatedButton], and [OutlinedButton] respectively  
+✅ RaisedButton into Elevated button. Add 'style': background color, foreground color (MaterialStateProperty.all(Colors.XYZ)) or use ElevatedButton.styleFrom  
+✅ ctrl+,  (open settings)  
