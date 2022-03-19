@@ -30,14 +30,16 @@ class Result extends StatelessWidget {
               onPressed: () {
                 print('Raised button pressed!');
               }),
-          FlatButton(
+          TextButton(
             child: Text('Flat Button'),
+            style: TextButton.styleFrom(primary: Colors.orange),
             onPressed: () {
               print('Flat button pressed');
             },
           ),
-          OutlineButton(
+          OutlinedButton(
             child: Text('Outline Button'),
+            style: OutlinedButton.styleFrom(primary: Colors.orange),
             onPressed: () {
               print('Outline button pressed');
             },
