@@ -29,3 +29,5 @@ file edited in github 😂
 ✅ FlatButton, RaisedButton, and OutlineButton have been replaced by [TextButton], [ElevatedButton], and [OutlinedButton] respectively  
 ✅ RaisedButton into Elevated button. Add 'style': background color, foreground color (MaterialStateProperty.all(Colors.XYZ)) or use ElevatedButton.styleFrom  
 ✅ ctrl+,  (open settings)  
+✅ assignment no.1 (!57)  
+✅ MaterialApp

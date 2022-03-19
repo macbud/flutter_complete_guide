@@ -15,7 +15,7 @@ class Result extends StatelessWidget {
             style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
           ),
           ElevatedButton(
-              child: Text('Raised button'),
+              child: Text('Raised button :)'),
               style: ButtonStyle(
                 backgroundColor: MaterialStateProperty.all(Colors.deepOrange),
                 foregroundColor: MaterialStateProperty.all(Colors.white),
