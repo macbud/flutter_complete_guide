@@ -22,7 +22,7 @@ file edited in github 😂
 ✅ mapping  
 ✅ mapping a lists to a widgets (L45!) / list in a list -> ... (spread operator)  
 ✅ final (can't be changed at runtime, initialy can be assigned, thereafter property/variable can't be changed again), const (... at compile-time), enum  
-✅ 'if', 'else if' statement - end of a quiz; boolean && || 
+✅ 'if', 'else if' statement - end of a quiz; boolean && ||  
 ✅ null value, null safety (int? String? main value type or null)  
 ✅ boolean value: boolean ? do1 : do2  
 ✅ splitting widgets (easier to manage) (L51)  
