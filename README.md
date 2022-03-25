@@ -30,4 +30,5 @@ file edited in github 😂
 ✅ RaisedButton into Elevated button. Add 'style': background color, foreground color (MaterialStateProperty.all(Colors.XYZ)) or use ElevatedButton.styleFrom  
 ✅ ctrl+,  (open settings)  
 ✅ assignment no.1 (!57)  
-✅ MaterialApp
+✅ MaterialApp  
+✅ DevTool overview  
